@@ -1,9 +1,9 @@
 # Bookmyshow-auto-interest-with-multiple-mails
 Bookmyshow auto interest with multiple mails using selenium with python
 
-Replace Which Movie You Want To Rate Now In 12th Line with url
+Replace Which Movie You Want To Rate Now In 7th Line with url
 
-replace your email id with 24th line
+replace your email id with 19th line
 
 👉use these technique to enter otp fastly https://youtu.be/kKkhecWiWbc
 
