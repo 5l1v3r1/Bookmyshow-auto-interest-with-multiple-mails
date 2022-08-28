@@ -32,3 +32,9 @@ and
 
 python -c "import selenium; print(selenium.__version__)"
 <to check the current version of selenium>
+
+  I Dont Find Any Bms Auto Rating With Multiple Mails So Made And Get Success.
+ 
+
+
+only for general purpose Only Don't Use For Longtime.
