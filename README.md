@@ -37,4 +37,5 @@ python -c "import selenium; print(selenium.__version__)"
  
 
 
-only for general purpose Only Don't Use For Longtime.
+
+This information is only for educationla purpose and we are not responsible for any kind of illegal activity done by this tool.
