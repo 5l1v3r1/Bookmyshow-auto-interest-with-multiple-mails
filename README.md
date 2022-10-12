@@ -6,6 +6,8 @@ Replace Which Movie You Want To Rate Now In 7th Line with url(select city in bms
 replace your email id with 19th line and replace where emails are asked in below codes....
 https://generator.email/blog/gmail-generator for unlimited dot mails
 
+in proxy_service.py file in 2 line add proxy number inside to by pass location...
+
 👉use these technique to enter otp fastly https://youtu.be/kKkhecWiWbc
 
 if you use url open from text file then see the screenshot & dont forgot to add url in text file and dont forgot to add hastag in starting to driver.get(" ")
