@@ -1,14 +1,12 @@
 # Bookmyshow-auto-interest-with-multiple-mails
 Bookmyshow auto interest with multiple mails using selenium with python
 
-Replace Which Movie You Want To Rate Now In 7th Line with url
+Replace Which Movie You Want To Rate Now In 7th Line with url(select city in bms and copy the url and paste) and replace url in below codes where url asked...
 
 replace your email id with 19th line and replace where emails are asked in below codes....
 https://generator.email/blog/gmail-generator for unlimited dot mails
 
 👉use these technique to enter otp fastly https://youtu.be/kKkhecWiWbc
-
-use proxy for hide ip address where interest is coming from same place
 
 if you use url open from text file then see the screenshot & dont forgot to add url in text file and dont forgot to add hastag in starting to driver.get(" ")
 
